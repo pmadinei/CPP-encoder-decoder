@@ -1,3 +1,6 @@
+# Instructions
+In this program, the inputs illustrate encryption or decryption, the simple or complicated approach, password, and input text to receive output text.
+
 # Judge
 This repository consists of a judge for this program.
 
