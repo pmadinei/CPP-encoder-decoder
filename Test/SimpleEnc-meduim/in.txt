@@ -1,0 +1,5 @@
+encrypt
+simple
+FARZAD
+./input.txt
+./output.txt
