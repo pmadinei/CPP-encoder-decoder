@@ -1,6 +1,15 @@
 # Instructions
 In this program, the inputs illustrate encryption or decryption, the simple or complicated approach, password, and input text to receive output text.
 
+# Encryptions-Decryptions Approaches
+Simple Encryptions and Decryptions is illustrated bellow:
+![Simple Approach En](https://github.com/pmadinei/CPP-encoder-decoder/blob/master/Approaches/Simple%20Encryption.png)
+![Simple Approach De](https://github.com/pmadinei/CPP-encoder-decoder/blob/master/Approaches/Simple%20Decryption.png)
+
+Complicated Encryptions and Decryptions is illustrated bellow:
+![Complicated Approach En](https://github.com/pmadinei/CPP-encoder-decoder/blob/master/Approaches/Complicated%20Encryption.png)
+![Complicated Approach De](https://github.com/pmadinei/CPP-encoder-decoder/blob/master/Approaches/Complicated%20decryption.png)
+
 # Judge
 This repository consists of a judge for this program.
 
