@@ -1,4 +1,4 @@
-# Instructions
+# Instruction
 In this program, the inputs illustrate encryption or decryption, the simple or complicated approach, password, and input text to receive output text.
 
 # Encryptions-Decryptions Approaches
